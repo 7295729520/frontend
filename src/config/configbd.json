@@ -1,0 +1,17 @@
+{
+    "DevConfig":{
+        "service":{
+            "host":"localhost",
+            "port":3000
+        },
+    "db":{
+        "host":"localhost",
+        "name":"anime",
+            "port":2424,
+            "user":"root",
+            "password":"7295",
+            "rootUser":"root",
+            "rootPassword":"7295"
+    }
+}
+}
